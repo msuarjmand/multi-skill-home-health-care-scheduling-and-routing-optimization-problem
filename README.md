@@ -1,6 +1,6 @@
 # A bi-objective mathematical modeling for a multi-skill home health care scheduling and routing problem
 
-The code repository for "A bi-objective mathematical modeling for a multi-skill home health care scheduling and routing problem" [Conference paper](https://https://civilica.com/doc/923652/) (ICORS 2019). If you use any content of this repo for your work, please cite the following bib entry:
+The code repository for "A bi-objective mathematical modeling for a multi-skill home health care scheduling and routing problem" [Conference paper](https://civilica.com/doc/923652/) (ICORS 2019). If you use any content of this repo for your work, please cite the following bib entry:
   
     @inproceedings{
         10454082,
