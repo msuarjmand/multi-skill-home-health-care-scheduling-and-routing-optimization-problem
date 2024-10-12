@@ -17,4 +17,10 @@ The code repository for "A bi-objective mathematical modeling for a multi-skill 
 
 Home health care (HHC) is defined as providing medical and paramedical services for patients at their own domicile. In the HHC industry, it is crucial for healthcare organizations to assign reasonable visiting routes to caregivers when they have different skills. This paper develops a multi-skill HHC scheduling and routing problem with two objectives. The objectives are to minimize the total cost and maximize customer satisfaction, respectively. To solve this problem, regarding the fact that the presented model is NP-hardness, two meta-heuristic algorithms, namely SPEA-II and NSGA-II, are used. Moreover, the Taguchi method is used to adjust the parameters of the algorithms. In addition, different problems are generated when comparing the performance of the algorithms. The results based on numerical experiments and evaluation criteria illustrate that the SPEA-II has slightly better performance than the NSGA-II.
 
+## Algorithms
+
+
+Non-dominated Sorting Genetic Algorithm II (NSGA-II) [https://ieeexplore.ieee.org/document/996017]
+Strength Pareto Evolutionary Algorithm 2 (SPEA2) [https://www.research-collection.ethz.ch/handle/20.500.11850/145755]
+
 
