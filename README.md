@@ -19,5 +19,5 @@ Home health care (HHC) is defined as providing medical and paramedical services 
 
 ## Algorithms
 
-- Non-dominated Sorting Genetic Algorithm II  [NSGA-II](https://ieeexplore.ieee.org/document/996017)
-- Strength Pareto Evolutionary Algorithm II  [SPEA-II](https://neo.lcc.uma.es/emoo/zitzler01.ps.gz)
+- Non-dominated Sorting Genetic Algorithm II  ([NSGA-II](https://ieeexplore.ieee.org/document/996017))
+- Strength Pareto Evolutionary Algorithm II  ([SPEA-II](https://neo.lcc.uma.es/emoo/zitzler01.ps.gz))
