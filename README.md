@@ -24,4 +24,5 @@ Non-dominated Sorting Genetic Algorithm II (NSGA-II)[https://ieeexplore.ieee.org
 
 Strength Pareto Evolutionary Algorithm II (SPEA2)[https://www.research-collection.ethz.ch/handle/20.500.11850/145755]
 
-
+- Non-dominated Sorting Genetic Algorithm II [NSGA-II](https://ieeexplore.ieee.org/document/996017)
+- Strength Pareto Evolutionary Algorithm II [SPEA-II](https://neo.lcc.uma.es/emoo/zitzler01.ps.gz)
