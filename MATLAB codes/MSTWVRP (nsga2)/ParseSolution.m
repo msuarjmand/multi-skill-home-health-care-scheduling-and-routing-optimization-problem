@@ -57,9 +57,6 @@ function sol=ParseSolution(q,model)
     end
     
     TWV=floor(sum(t2./p));
-    
-    
-    
 
 
 %% Output parameters
