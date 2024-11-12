@@ -21,7 +21,7 @@ function sol=ParseSolution(q,model)
     
     L=cell(K,1);
     D=zeros(1,K);
-%     UC=zeros(1,K);
+
     AT=zeros(1,I);
    
     for k=1:K
@@ -58,7 +58,7 @@ function sol=ParseSolution(q,model)
     
     
     
-%     MeanED=mean(ED);
+
 
 
     sol.L=L;
@@ -70,6 +70,6 @@ function sol=ParseSolution(q,model)
     sol.TWV=TWV;
     sol.ED=ED;
 
-%     sol.IsFeasible=(MeanCV==0 && MeanTWV==0);
+
     
 end
