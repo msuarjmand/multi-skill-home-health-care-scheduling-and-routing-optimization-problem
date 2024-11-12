@@ -1,5 +1,7 @@
 function sol=ParseSolution(q,model)
 
+%% Input parameters
+
     I=model.I;
     K=model.K;
     M=model.M;
