@@ -4,7 +4,7 @@ function model=CreateRandomModel(I,J)
 %         rmax=25;
 %         r=randi([rmin rmax],1,I);
 %     
-    r=
+
 
 
     TotalDemand=sum(r);
