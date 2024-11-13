@@ -1,12 +1,5 @@
 function model=CreateRandomModel(I,J)
 
-%         rmin=10;
-%         rmax=25;
-%         r=randi([rmin rmax],1,I);
-%     
-
-
-
     TotalDemand=sum(r);
     cmean=TotalDemand/J;
     cmin=round(cmean);
@@ -63,6 +56,8 @@ function model=CreateRandomModel(I,J)
     end
     
     eta=0.5;
+
+%% Output parameters
     
     model.I=I;
     model.J=J;
