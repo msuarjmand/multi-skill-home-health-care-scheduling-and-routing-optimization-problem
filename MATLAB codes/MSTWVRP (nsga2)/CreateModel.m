@@ -80,7 +80,8 @@ end
    
    
     
-    %% output
+%% output
+
 model.I=I;
 model.K=K;
 model.M=M;
