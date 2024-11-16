@@ -1,5 +1,8 @@
 function qnew=CreateNeighbor(q)
 
+
+% Three operations for creating a new solution 
+
     m=randi([1 3]);
     
     switch m
