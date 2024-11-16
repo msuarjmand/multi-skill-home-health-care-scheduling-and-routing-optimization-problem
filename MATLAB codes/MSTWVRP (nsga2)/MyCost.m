@@ -52,7 +52,7 @@ function [z sol]=MyCost(q,model)
     
    z3=sum(CD)+sum(sum(ES));
    
-   
+   % Objective Function
    z=[(1/2*(z1+z2)) z3];
 
    % Output parameters
