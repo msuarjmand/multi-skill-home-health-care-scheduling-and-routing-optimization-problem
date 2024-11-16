@@ -5,7 +5,7 @@ function [z sol]=MyCost(q,model)
 
     sol=ParseSolution(q,model);
     
-
+    % Input Parameters
 
     ED=sol.ED;
     TWV=sol.TWV;
@@ -54,7 +54,8 @@ function [z sol]=MyCost(q,model)
    
    
    z=[(1/2*(z1+z2)) z3];
-   
+
+   % Output parameters
    sol.z1=z1;
    sol.z2=z2;
    sol.z3=z3;
